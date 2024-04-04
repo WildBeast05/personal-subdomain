@@ -1,0 +1,16 @@
+{
+    "description": "A domain for testing school projects using Cloudflare",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "wildbeast",
+
+    "owner": {
+        "repo": "https://github.com/WildBeast05/personal-subdomain",
+    },
+
+    "record": {
+        "CNAME": "wildbeast.com",
+    },
+
+    "proxied": true
+}
